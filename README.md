@@ -1,18 +1,9 @@
 # ARES v1.0
 ## Hexicdecimal Binary Encryption for Python 3.9 and Windows 10
 
-<script type="text/javascript">
+<a href="https://alectramell.github.io" target="_new">Tramell Software Development (AGY)</a>
 
-        function NewTab(xvar) {
-            window.open(
-              xvar, "_blank");
-        }
-
-</script>
-
-<a onclick="NewTab('https://alectramell.github.io');" href="https://alectramell.github.io">Tramell Software Development (AGY)</a>
-
-<a onclick="NewTab('https://alectramell.github.io');" href="https://alectramell.github.io">https://alectramell.github.io</a>
+<a href="https://alectramell.github.io" target="_new">https://alectramell.github.io</a>
 
 
 ## Usage..
