@@ -6,25 +6,25 @@
 
 ## Usage..
 
-	```>>> import ares```
+	>>> import ares
 
 ## Encrypt String (ASCII) to Hexicdecimal Binary..
 
-	```>>> ares.encrypt('hello world')```
+	>>> ares.encrypt('hello world')
 
 ## Decrypt Hexidecimal Binary String to Text String (ASCII)..
 
-	```>>> ares.decrypt('68656c6c6f20776f726c64')```
+	>>> ares.decrypt('68656c6c6f20776f726c64')
 
 ## Convert Text File (.txt) to Hexicdecimal Binary File (.bin)..
 
-	```>>> ares.encrypt('filename.txt')```
+	>>> ares.encrypt('filename.txt')
 
 ## Convert Hexidecimal Binary File (.bin) to Text File (.txt)..
 
-	```>>> ares.decrypt('filename.bin')```
+	>>> ares.decrypt('filename.bin')
 
 ## Read Hexidecimal Binary File (.bin) into Program String, then print..
 
-	```>>> print(ares.bindata('file.bin'))```
+	>>> print(ares.bindata('file.bin'))
 
