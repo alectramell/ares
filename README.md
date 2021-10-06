@@ -1,8 +1,8 @@
 # ARES v1.0
 ## Hexicdecimal Binary Encryption for Python 3.9 and Windows 10
-[Tramell Software Development (AGY)](https://alectramell.github.io)
+[Tramell Software Development (AGY)](https://alectramell.github.io){:target="_blank"}
 
-[https://alectramell.github.io](https://alectramell.github.io)
+[https://alectramell.github.io](https://alectramell.github.io){:target="_blank"}
 
 
 ## Usage..
