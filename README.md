@@ -1,16 +1,16 @@
 # ARES v1.0
-## Hexicdecimal Binary Encryption for Python 3.0
+## Hexicdecimal Binary Encryption for Python 3.9 and Windows 10
 [Tramell Software Development (AGY)](https://alectramell.github.io)
 [https://alectramell.github.io](https://alectramell.github.io)
 
 
-- Usage..
+## Usage..
 
-	`>> import ares`
+	`>>> import ares`
 
 ## Encrypt String (ASCII) to Hexicdecimal Binary..
 
-	`>> ares.encrypt('hello world')`
+	`>>> ares.encrypt('hello world')`
 
 ## Decrypt Hexidecimal Binary String to Text String (ASCII)..
 
